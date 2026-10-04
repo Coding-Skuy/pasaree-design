@@ -1,0 +1,6 @@
+{
+  "judul_besar": { "ukuran": 28, "berat": 700 },
+  "judul": { "ukuran": 22, "berat": 700 },
+  "badan": { "ukuran": 16, "berat": 400 },
+  "kecil": { "ukuran": 13, "berat": 400 }
+}
